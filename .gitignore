@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+// ocultar estado.js y tareas.js
+src/estado.js
+src/tareas.js
